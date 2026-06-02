@@ -4,6 +4,20 @@ class Country:
         self.population = population
         self.region = region
         self.gdp = gdp
+    
+    @property
+    def population(self):
+        return self._population
+    
+    @population.setter
+    def population(self, value):
+        cleaned = str(value).strip().replace(",", "")
+        try:
+            self._population = int(cleaned)
+        except ValueError:
+            print(f"Invalid population for {self.name}: {value}")
+            self._population = 0
+
 
     @property
     def name(self):
