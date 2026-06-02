@@ -9,9 +9,7 @@ from static_variables import *
 from models import countries
 
 def main():
-    all_counties = scrape_the_data()   # закоментирам защото вече ги имам локално и ще си ползвам тях иначе работи тествано! :)
-    write_in_the_file(all_counties)
-    readed_countries = read_from_the_file()
+    readed_countries = load_data()
     while True:
         print_menu()
 

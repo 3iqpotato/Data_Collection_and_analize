@@ -7,3 +7,5 @@ continent_urls = {
     "Oceania": "https://www.worldometers.info/population/countries-in-oceania-by-population/",
 }
 gdp_url = "https://www.worldometers.info/gdp/gdp-by-country/"
+
+CACHE_DURATION = 3 * 60 * 60

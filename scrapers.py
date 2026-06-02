@@ -1,11 +1,28 @@
 import json
+import os
+import time
 
 import requests
 from bs4 import BeautifulSoup
-
 from models.countries import Country
-from static_variables import gdp_url, continent_urls
+from static_variables import gdp_url, continent_urls, CACHE_DURATION
 
+def is_cache_valid(filepath="countries.json"):
+    if not os.path.exists(filepath):
+        return False
+    file_age = time.time() - os.path.getmtime(filepath)
+    return file_age < CACHE_DURATION
+
+
+def load_data():
+    if is_cache_valid():
+        print("Loading from cache...")
+        return read_from_the_file()
+    else:
+        print("Cache expired or missing, scraping fresh data...")
+        all_countries = scrape_the_data()
+        write_in_the_file(all_countries)
+        return all_countries
 
 def parse_values_to_int(g):
     g = g.strip().replace(",", "").replace("$", "")
