@@ -1,0 +1,308 @@
+[
+  {
+    "name": "India",
+    "population": 1476625576,
+    "region": "Asia",
+    "gdp": 4153191000000
+  },
+  {
+    "name": "China",
+    "population": 1412914089,
+    "region": "Asia",
+    "gdp": 20851593000000
+  },
+  {
+    "name": "Indonesia",
+    "population": 287886782,
+    "region": "Asia",
+    "gdp": 1539872000000
+  },
+  {
+    "name": "Pakistan",
+    "population": 259299791,
+    "region": "Asia",
+    "gdp": 407786000000
+  },
+  {
+    "name": "Bangladesh",
+    "population": 177818044,
+    "region": "Asia",
+    "gdp": 510705000000
+  },
+  {
+    "name": "Japan",
+    "population": 122427731,
+    "region": "Asia",
+    "gdp": 4379253000000
+  },
+  {
+    "name": "Philippines",
+    "population": 117724471,
+    "region": "Asia",
+    "gdp": 512222000000
+  },
+  {
+    "name": "Vietnam",
+    "population": 102177431,
+    "region": "Asia",
+    "gdp": 527266000000
+  },
+  {
+    "name": "Iran",
+    "population": 93168497,
+    "region": "Asia",
+    "gdp": 300293000000
+  },
+  {
+    "name": "Turkey",
+    "population": 87926082,
+    "region": "Asia",
+    "gdp": 1640223000000
+  },
+  {
+    "name": "Thailand",
+    "population": 71559614,
+    "region": "Asia",
+    "gdp": 579996000000
+  },
+  {
+    "name": "Myanmar",
+    "population": 55184819,
+    "region": "Asia",
+    "gdp": 83832000000
+  },
+  {
+    "name": "South Korea",
+    "population": 51600388,
+    "region": "Asia",
+    "gdp": 1931008000000
+  },
+  {
+    "name": "Iraq",
+    "population": 48007437,
+    "region": "Asia",
+    "gdp": 264784000000
+  },
+  {
+    "name": "Afghanistan",
+    "population": 45047069,
+    "region": "Asia",
+    "gdp": 19662000000
+  },
+  {
+    "name": "Yemen",
+    "population": 42961653,
+    "region": "Asia",
+    "gdp": 7435000000
+  },
+  {
+    "name": "Uzbekistan",
+    "population": 37724223,
+    "region": "Asia",
+    "gdp": 181502000000
+  },
+  {
+    "name": "Malaysia",
+    "population": 36385115,
+    "region": "Asia",
+    "gdp": 516428000000
+  },
+  {
+    "name": "Saudi Arabia",
+    "population": 35165787,
+    "region": "Asia",
+    "gdp": 1388676000000
+  },
+  {
+    "name": "Nepal",
+    "population": 29629410,
+    "region": "Asia",
+    "gdp": 45844000000
+  },
+  {
+    "name": "North Korea",
+    "population": 26633691,
+    "region": "Asia",
+    "gdp": 16446632290
+  },
+  {
+    "name": "Syria",
+    "population": 26472497,
+    "region": "Asia",
+    "gdp": 19993439950
+  },
+  {
+    "name": "Sri Lanka",
+    "population": 23348315,
+    "region": "Asia",
+    "gdp": 98964000000
+  },
+  {
+    "name": "Taiwan",
+    "population": 23011292,
+    "region": "Asia",
+    "gdp": 976719000000
+  },
+  {
+    "name": "Kazakhstan",
+    "population": 21083626,
+    "region": "Asia",
+    "gdp": 360456000000
+  },
+  {
+    "name": "Cambodia",
+    "population": 18051219,
+    "region": "Asia",
+    "gdp": 52379000000
+  },
+  {
+    "name": "Jordan",
+    "population": 11589532,
+    "region": "Asia",
+    "gdp": 64909000000
+  },
+  {
+    "name": "United Arab Emirates",
+    "population": 11574682,
+    "region": "Asia",
+    "gdp": 621546000000
+  },
+  {
+    "name": "Tajikistan",
+    "population": 10978599,
+    "region": "Asia",
+    "gdp": 20418000000
+  },
+  {
+    "name": "Azerbaijan",
+    "population": 10454855,
+    "region": "Asia",
+    "gdp": 78372000000
+  },
+  {
+    "name": "Israel",
+    "population": 9647689,
+    "region": "Asia",
+    "gdp": 719848000000
+  },
+  {
+    "name": "Laos",
+    "population": 7974017,
+    "region": "Asia",
+    "gdp": 18959000000
+  },
+  {
+    "name": "Turkmenistan",
+    "population": 7736632,
+    "region": "Asia",
+    "gdp": 83065000000
+  },
+  {
+    "name": "Kyrgyzstan",
+    "population": 7400465,
+    "region": "Asia",
+    "gdp": 23606000000
+  },
+  {
+    "name": "Hong Kong",
+    "population": 7378602,
+    "region": "Asia",
+    "gdp": 450138000000
+  },
+  {
+    "name": "Singapore",
+    "population": 5905748,
+    "region": "Asia",
+    "gdp": 659572000000
+  },
+  {
+    "name": "Lebanon",
+    "population": 5897467,
+    "region": "Asia",
+    "gdp": 34497000000
+  },
+  {
+    "name": "State of Palestine",
+    "population": 5692790,
+    "region": "Asia",
+    "gdp": 13711000000
+  },
+  {
+    "name": "Oman",
+    "population": 5671458,
+    "region": "Asia",
+    "gdp": 117176000000
+  },
+  {
+    "name": "Kuwait",
+    "population": 5102773,
+    "region": "Asia",
+    "gdp": 172920000000
+  },
+  {
+    "name": "Georgia",
+    "population": 3804642,
+    "region": "Asia",
+    "gdp": 42716000000
+  },
+  {
+    "name": "Mongolia",
+    "population": 3556798,
+    "region": "Asia",
+    "gdp": 28450000000
+  },
+  {
+    "name": "Qatar",
+    "population": 3173559,
+    "region": "Asia",
+    "gdp": 217416000000
+  },
+  {
+    "name": "Armenia",
+    "population": 2930915,
+    "region": "Asia",
+    "gdp": 31873000000
+  },
+  {
+    "name": "Bahrain",
+    "population": 1675572,
+    "region": "Asia",
+    "gdp": 48849000000
+  },
+  {
+    "name": "Timor-Leste",
+    "population": 1436923,
+    "region": "Asia",
+    "gdp": 2170000000
+  },
+  {
+    "name": "Cyprus",
+    "population": 1382334,
+    "region": "Asia",
+    "gdp": 45171000000
+  },
+  {
+    "name": "Bhutan",
+    "population": 802214,
+    "region": "Asia",
+    "gdp": 3856000000
+  },
+  {
+    "name": "Macao",
+    "population": 723188,
+    "region": "Asia",
+    "gdp": 54228000000
+  },
+  {
+    "name": "Maldives",
+    "population": 531517,
+    "region": "Asia",
+    "gdp": 8130000000
+  },
+  {
+    "name": "Brunei",
+    "population": 469775,
+    "region": "Asia",
+    "gdp": 16863000000
+  }
+]
