@@ -3,13 +3,13 @@ def get_gdp_population(country_name, all_data):
     if len(country_l) > 0:
         country = country_l[0]
         return country
-    return 0
+    return None
 
 def list_countries_in_continent(continent, all_data):
     countries_l = list(filter(lambda x: x.region.lower() == continent.lower(), all_data))
     if len(countries_l) > 0:
         return countries_l
-    return 0
+    return None
 
 def get_total_population_gdp_per_continent(all_data):
     result = {}
@@ -62,7 +62,6 @@ def top_5_countries(all_data, key, continent=None):
     else:
         filtered_data = all_data
 
-    # Сортиране и връщане на топ 5
     sorted_data = sorted(filtered_data, key=lambda c: getattr(c, key), reverse=True)
     return sorted_data[:5]
 

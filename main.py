@@ -9,7 +9,7 @@ from static_variables import *
 from models import countries
 
 def main():
-    readed_countries = load_data()
+    loaded_countries = load_data()
     while True:
         print_menu()
 
@@ -21,8 +21,8 @@ def main():
 
         elif choice == "1":
             country = input("Enter country name: ").strip()
-            searched_country = get_gdp_population(country, readed_countries)  # твоята функция
-            if searched_country == 0:
+            searched_country = get_gdp_population(country, loaded_countries)  # твоята функция
+            if not searched_country:
                 print("Error: Country not found!")
             else:
                 print(f"\n {searched_country.name}")
@@ -31,8 +31,8 @@ def main():
 
         elif choice == "2":
             continent = input("Enter continent name: ").strip()
-            result = list_countries_in_continent(continent, readed_countries)
-            if result == 0:
+            result = list_countries_in_continent(continent, loaded_countries)
+            if not result:
                 print("Error: Continent not found!")
             else:
                 print(f"\n Countries in {continent}:")
@@ -40,7 +40,7 @@ def main():
                     print(f"   • {c.name}")
 
         elif choice == "3":
-            result = get_total_population_gdp_per_continent(readed_countries)
+            result = get_total_population_gdp_per_continent(loaded_countries)
             print("\n Total Population & GDP per Continent:")
             for continent, (total_pop, total_gdp) in result.items():
                 print(f"\n {continent}:")
@@ -49,7 +49,7 @@ def main():
 
 
         elif choice == "4":
-            result = get_avg_population_gdp_per_continent(readed_countries)
+            result = get_avg_population_gdp_per_continent(loaded_countries)
             print("\n Average Population & GDP per Continent:")
             for continent, (avg_pop, avg_gdp) in result.items():
                 print(f"\n {continent}:")
@@ -57,13 +57,13 @@ def main():
                 print(f"   Average GDP: ${avg_gdp:,.0f}")
 
         elif choice == "5":
-            result = top_5_countries(readed_countries, key="population")
+            result = top_5_countries(loaded_countries, key="population")
             print("\n TOP 5 COUNTRIES BY POPULATION:")
             for i, country in enumerate(result, 1):
                 print(f"   {i}. {country.name} - {country.population:,}")
 
         elif choice == "6":
-            result = top_5_countries(readed_countries, key="gdp")
+            result = top_5_countries(loaded_countries, key="gdp")
             print("\n TOP 5 COUNTRIES BY GDP:")
             for i, country in enumerate(result, 1):
                 print(f"   {i}. {country.name} - ${country.gdp:,}")
@@ -76,7 +76,7 @@ def main():
             sort_by = input("Choose (1 or 2): ").strip()
 
             if sort_by == "1":
-                result = top_5_countries(readed_countries,"population", continent)
+                result = top_5_countries(loaded_countries,"population", continent)
                 if not result:
                     print("Error: Continent not found!")
                 else:
@@ -85,7 +85,7 @@ def main():
                         print(f"   {i}. {country.name} - {country.population:,}")
 
             elif sort_by == "2":
-                result = top_5_countries(readed_countries,"gdp", continent)
+                result = top_5_countries(loaded_countries,"gdp", continent)
                 if not result:
                     print("Error: Continent not found!")
                 else:
@@ -104,14 +104,14 @@ def main():
 
             if filter_type == "1":
                 min_pop = int(input("Enter minimum population: ").strip())
-                result = result = filter_countries_by_population(readed_countries, filter_type, min_pop=min_pop)
+                result = result = filter_countries_by_population(loaded_countries, filter_type, min_pop=min_pop)
                 print(f"\nCountries with population > {min_pop:,}:")
                 for country in result:
                     print(f"   • {country.name} - {country.population:,}")
 
             elif filter_type == "2":
                 max_pop = int(input("Enter maximum population: ").strip())
-                result = result = filter_countries_by_population(readed_countries, filter_type, max_pop=max_pop)
+                result = result = filter_countries_by_population(loaded_countries, filter_type, max_pop=max_pop)
                 print(f"\nCountries with population < {max_pop:,}:")
                 for country in result:
                     print(f"   • {country.name} - {country.population:,}")
@@ -119,7 +119,7 @@ def main():
             elif filter_type == "3":
                 min_pop = int(input("Enter minimum population: ").strip())
                 max_pop = int(input("Enter maximum population: ").strip())
-                result = result = filter_countries_by_population(readed_countries, filter_type, min_pop, max_pop)
+                result = result = filter_countries_by_population(loaded_countries, filter_type, min_pop, max_pop)
                 print(f"\nCountries with population between {min_pop:,} and {max_pop:,}:")
                 for country in result:
                     print(f"   • {country.name} - {country.population:,}")
