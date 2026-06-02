@@ -304,5 +304,1103 @@
     "population": 469775,
     "region": "Asia",
     "gdp": 16863000000
+  },
+  {
+    "name": "Nigeria",
+    "population": 242431832,
+    "region": "Africa",
+    "gdp": 377365000000
+  },
+  {
+    "name": "Ethiopia",
+    "population": 138902185,
+    "region": "Africa",
+    "gdp": 121527000000
+  },
+  {
+    "name": "Egypt",
+    "population": 120101175,
+    "region": "Africa",
+    "gdp": 429645000000
+  },
+  {
+    "name": "DR Congo",
+    "population": 116452162,
+    "region": "Africa",
+    "gdp": 123406000000
+  },
+  {
+    "name": "Tanzania",
+    "population": 72563780,
+    "region": "Africa",
+    "gdp": 94889000000
+  },
+  {
+    "name": "South Africa",
+    "population": 65453084,
+    "region": "Africa",
+    "gdp": 479964000000
+  },
+  {
+    "name": "Kenya",
+    "population": 58636412,
+    "region": "Africa",
+    "gdp": 147265000000
+  },
+  {
+    "name": "Sudan",
+    "population": 53282719,
+    "region": "Africa",
+    "gdp": 44688000000
+  },
+  {
+    "name": "Uganda",
+    "population": 52761469,
+    "region": "Africa",
+    "gdp": 73370000000
+  },
+  {
+    "name": "Algeria",
+    "population": 48028334,
+    "region": "Africa",
+    "gdp": 317173000000
+  },
+  {
+    "name": "Angola",
+    "population": 40215179,
+    "region": "Africa",
+    "gdp": 152354000000
+  },
+  {
+    "name": "Morocco",
+    "population": 38762441,
+    "region": "Africa",
+    "gdp": 194333000000
+  },
+  {
+    "name": "Mozambique",
+    "population": 36639851,
+    "region": "Africa",
+    "gdp": 23275000000
+  },
+  {
+    "name": "Ghana",
+    "population": 35697557,
+    "region": "Africa",
+    "gdp": 118293000000
+  },
+  {
+    "name": "Madagascar",
+    "population": 33522052,
+    "region": "Africa",
+    "gdp": 21185000000
+  },
+  {
+    "name": "CÃ´te d'Ivoire",
+    "population": 33494346,
+    "region": "Africa",
+    "gdp": 112115000000
+  },
+  {
+    "name": "Cameroon",
+    "population": 30640817,
+    "region": "Africa",
+    "gdp": 65135000000
+  },
+  {
+    "name": "Niger",
+    "population": 28814878,
+    "region": "Africa",
+    "gdp": 24813000000
+  },
+  {
+    "name": "Mali",
+    "population": 25932275,
+    "region": "Africa",
+    "gdp": 33847000000
+  },
+  {
+    "name": "Burkina Faso",
+    "population": 24601700,
+    "region": "Africa",
+    "gdp": 32513000000
+  },
+  {
+    "name": "Malawi",
+    "population": 22785535,
+    "region": "Africa",
+    "gdp": 18152000000
+  },
+  {
+    "name": "Zambia",
+    "population": 22521915,
+    "region": "Africa",
+    "gdp": 41243000000
+  },
+  {
+    "name": "Chad",
+    "population": 21560380,
+    "region": "Africa",
+    "gdp": 25628000000
+  },
+  {
+    "name": "Somalia",
+    "population": 20305907,
+    "region": "Africa",
+    "gdp": 14174000000
+  },
+  {
+    "name": "Senegal",
+    "population": 19366548,
+    "region": "Africa",
+    "gdp": 40469000000
+  },
+  {
+    "name": "Zimbabwe",
+    "population": 17273580,
+    "region": "Africa",
+    "gdp": 56713000000
+  },
+  {
+    "name": "Guinea",
+    "population": 15441993,
+    "region": "Africa",
+    "gdp": 29930000000
+  },
+  {
+    "name": "Benin",
+    "population": 15170419,
+    "region": "Africa",
+    "gdp": 27786000000
+  },
+  {
+    "name": "Rwanda",
+    "population": 14889693,
+    "region": "Africa",
+    "gdp": 17336000000
+  },
+  {
+    "name": "Burundi",
+    "population": 14729157,
+    "region": "Africa",
+    "gdp": 8137000000
+  },
+  {
+    "name": "South Sudan",
+    "population": 12436037,
+    "region": "Africa",
+    "gdp": 6069000000
+  },
+  {
+    "name": "Tunisia",
+    "population": 12415138,
+    "region": "Africa",
+    "gdp": 60745000000
+  },
+  {
+    "name": "Togo",
+    "population": 9930918,
+    "region": "Africa",
+    "gdp": 13437000000
+  },
+  {
+    "name": "Sierra Leone",
+    "population": 8996745,
+    "region": "Africa",
+    "gdp": 8270000000
+  },
+  {
+    "name": "Libya",
+    "population": 7539851,
+    "region": "Africa",
+    "gdp": 52453000000
+  },
+  {
+    "name": "Congo",
+    "population": 6637785,
+    "region": "Africa",
+    "gdp": 17028000000
+  },
+  {
+    "name": "Liberia",
+    "population": 5853949,
+    "region": "Africa",
+    "gdp": 5642000000
+  },
+  {
+    "name": "Central African Republic",
+    "population": 5698984,
+    "region": "Africa",
+    "gdp": 3492000000
+  },
+  {
+    "name": "Mauritania",
+    "population": 5461319,
+    "region": "Africa",
+    "gdp": 14352000000
+  },
+  {
+    "name": "Eritrea",
+    "population": 3682669,
+    "region": "Africa",
+    "gdp": 2275290216
+  },
+  {
+    "name": "Namibia",
+    "population": 3153246,
+    "region": "Africa",
+    "gdp": 17314000000
+  },
+  {
+    "name": "Gambia",
+    "population": 2884079,
+    "region": "Africa",
+    "gdp": 2792000000
+  },
+  {
+    "name": "Gabon",
+    "population": 2647399,
+    "region": "Africa",
+    "gdp": 23363000000
+  },
+  {
+    "name": "Botswana",
+    "population": 2603388,
+    "region": "Africa",
+    "gdp": 21937000000
+  },
+  {
+    "name": "Lesotho",
+    "population": 2389336,
+    "region": "Africa",
+    "gdp": 2972000000
+  },
+  {
+    "name": "Guinea-Bissau",
+    "population": 2297808,
+    "region": "Africa",
+    "gdp": 2985000000
+  },
+  {
+    "name": "Equatorial Guinea",
+    "population": 1984468,
+    "region": "Africa",
+    "gdp": 13722000000
+  },
+  {
+    "name": "Eswatini",
+    "population": 1269859,
+    "region": "Africa",
+    "gdp": 5792000000
+  },
+  {
+    "name": "Mauritius",
+    "population": 1265059,
+    "region": "Africa",
+    "gdp": 17119000000
+  },
+  {
+    "name": "Djibouti",
+    "population": 1199459,
+    "region": "Africa",
+    "gdp": 4725000000
+  },
+  {
+    "name": "Comoros",
+    "population": 899010,
+    "region": "Africa",
+    "gdp": 1814000000
+  },
+  {
+    "name": "RÃ©union",
+    "population": 886298,
+    "region": "Africa",
+    "gdp": 0
+  },
+  {
+    "name": "Western Sahara",
+    "population": 610813,
+    "region": "Africa",
+    "gdp": 0
+  },
+  {
+    "name": "Cabo Verde",
+    "population": 529630,
+    "region": "Africa",
+    "gdp": 3448000000
+  },
+  {
+    "name": "Mayotte",
+    "population": 347536,
+    "region": "Africa",
+    "gdp": 0
+  },
+  {
+    "name": "Sao Tome & Principe",
+    "population": 244994,
+    "region": "Africa",
+    "gdp": 1161000000
+  },
+  {
+    "name": "Seychelles",
+    "population": 134959,
+    "region": "Africa",
+    "gdp": 2251000000
+  },
+  {
+    "name": "Saint Helena",
+    "population": 5147,
+    "region": "Africa",
+    "gdp": 0
+  },
+  {
+    "name": "Russia",
+    "population": 143394458,
+    "region": "Europe",
+    "gdp": 2656452000000
+  },
+  {
+    "name": "Germany",
+    "population": 83644258,
+    "region": "Europe",
+    "gdp": 5452858000000
+  },
+  {
+    "name": "United Kingdom",
+    "population": 69931528,
+    "region": "Europe",
+    "gdp": 4264794000000
+  },
+  {
+    "name": "France",
+    "population": 66746401,
+    "region": "Europe",
+    "gdp": 3596094000000
+  },
+  {
+    "name": "Italy",
+    "population": 58926166,
+    "region": "Europe",
+    "gdp": 2738164000000
+  },
+  {
+    "name": "Spain",
+    "population": 47850793,
+    "region": "Europe",
+    "gdp": 2091222000000
+  },
+  {
+    "name": "Ukraine",
+    "population": 39535849,
+    "region": "Europe",
+    "gdp": 225337000000
+  },
+  {
+    "name": "Poland",
+    "population": 37843188,
+    "region": "Europe",
+    "gdp": 1134248000000
+  },
+  {
+    "name": "Romania",
+    "population": 18800605,
+    "region": "Europe",
+    "gdp": 480834000000
+  },
+  {
+    "name": "Netherlands",
+    "population": 18448775,
+    "region": "Europe",
+    "gdp": 1449704000000
+  },
+  {
+    "name": "Belgium",
+    "population": 11774642,
+    "region": "Europe",
+    "gdp": 776730000000
+  },
+  {
+    "name": "Sweden",
+    "population": 10701047,
+    "region": "Europe",
+    "gdp": 760481000000
+  },
+  {
+    "name": "Czech Republic (Czechia)",
+    "population": 10527781,
+    "region": "Europe",
+    "gdp": 432597000000
+  },
+  {
+    "name": "Portugal",
+    "population": 10395362,
+    "region": "Europe",
+    "gdp": 380637000000
+  },
+  {
+    "name": "Greece",
+    "population": 9897115,
+    "region": "Europe",
+    "gdp": 307554000000
+  },
+  {
+    "name": "Hungary",
+    "population": 9585818,
+    "region": "Europe",
+    "gdp": 271122000000
+  },
+  {
+    "name": "Austria",
+    "population": 9107266,
+    "region": "Europe",
+    "gdp": 623719000000
+  },
+  {
+    "name": "Switzerland",
+    "population": 9007798,
+    "region": "Europe",
+    "gdp": 1146911000000
+  },
+  {
+    "name": "Belarus",
+    "population": 8937018,
+    "region": "Europe",
+    "gdp": 102042000000
+  },
+  {
+    "name": "Bulgaria",
+    "population": 6667659,
+    "region": "Europe",
+    "gdp": 148121000000
+  },
+  {
+    "name": "Serbia",
+    "population": 6641964,
+    "region": "Europe",
+    "gdp": 112025000000
+  },
+  {
+    "name": "Denmark",
+    "population": 6023520,
+    "region": "Europe",
+    "gdp": 503772000000
+  },
+  {
+    "name": "Norway",
+    "population": 5652989,
+    "region": "Europe",
+    "gdp": 599406000000
+  },
+  {
+    "name": "Finland",
+    "population": 5621739,
+    "region": "Europe",
+    "gdp": 337669000000
+  },
+  {
+    "name": "Slovakia",
+    "population": 5451342,
+    "region": "Europe",
+    "gdp": 168897000000
+  },
+  {
+    "name": "Ireland",
+    "population": 5356950,
+    "region": "Europe",
+    "gdp": 779381000000
+  },
+  {
+    "name": "Croatia",
+    "population": 3822345,
+    "region": "Europe",
+    "gdp": 116574000000
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "population": 3114242,
+    "region": "Europe",
+    "gdp": 36771000000
+  },
+  {
+    "name": "Moldova",
+    "population": 2961253,
+    "region": "Europe",
+    "gdp": 21889000000
+  },
+  {
+    "name": "Lithuania",
+    "population": 2797338,
+    "region": "Europe",
+    "gdp": 105907000000
+  },
+  {
+    "name": "Albania",
+    "population": 2751025,
+    "region": "Europe",
+    "gdp": 33333312000
+  },
+  {
+    "name": "Slovenia",
+    "population": 2114573,
+    "region": "Europe",
+    "gdp": 86732000000
+  },
+  {
+    "name": "Latvia",
+    "population": 1835935,
+    "region": "Europe",
+    "gdp": 53686000000
+  },
+  {
+    "name": "North Macedonia",
+    "population": 1804063,
+    "region": "Europe",
+    "gdp": 21605000000
+  },
+  {
+    "name": "Estonia",
+    "population": 1331062,
+    "region": "Europe",
+    "gdp": 51634000000
+  },
+  {
+    "name": "Luxembourg",
+    "population": 687448,
+    "region": "Europe",
+    "gdp": 110417000000
+  },
+  {
+    "name": "Montenegro",
+    "population": 626233,
+    "region": "Europe",
+    "gdp": 10227000000
+  },
+  {
+    "name": "Malta",
+    "population": 549011,
+    "region": "Europe",
+    "gdp": 30712000000
+  },
+  {
+    "name": "Iceland",
+    "population": 402329,
+    "region": "Europe",
+    "gdp": 43800000000
+  },
+  {
+    "name": "Isle of Man",
+    "population": 84055,
+    "region": "Europe",
+    "gdp": 7431257411
+  },
+  {
+    "name": "Andorra",
+    "population": 83753,
+    "region": "Europe",
+    "gdp": 4879000000
+  },
+  {
+    "name": "Faeroe Islands",
+    "population": 56526,
+    "region": "Europe",
+    "gdp": 3907323961
+  },
+  {
+    "name": "Gibraltar",
+    "population": 40867,
+    "region": "Europe",
+    "gdp": 0
+  },
+  {
+    "name": "Liechtenstein",
+    "population": 40368,
+    "region": "Europe",
+    "gdp": 9442000000
+  },
+  {
+    "name": "Monaco",
+    "population": 38087,
+    "region": "Europe",
+    "gdp": 9995350547
+  },
+  {
+    "name": "San Marino",
+    "population": 33605,
+    "region": "Europe",
+    "gdp": 2417000000
+  },
+  {
+    "name": "Holy See",
+    "population": 506,
+    "region": "Europe",
+    "gdp": 0
+  },
+  {
+    "name": "Brazil",
+    "population": 213562666,
+    "region": "Latin America",
+    "gdp": 2635912000000
+  },
+  {
+    "name": "Mexico",
+    "population": 132997658,
+    "region": "Latin America",
+    "gdp": 2120855000000
+  },
+  {
+    "name": "Colombia",
+    "population": 53936226,
+    "region": "Latin America",
+    "gdp": 539530000000
+  },
+  {
+    "name": "Argentina",
+    "population": 46003734,
+    "region": "Latin America",
+    "gdp": 688378000000
+  },
+  {
+    "name": "Peru",
+    "population": 34922148,
+    "region": "Latin America",
+    "gdp": 380900000000
+  },
+  {
+    "name": "Venezuela",
+    "population": 28633711,
+    "region": "Latin America",
+    "gdp": 111303000000
+  },
+  {
+    "name": "Chile",
+    "population": 19945850,
+    "region": "Latin America",
+    "gdp": 407850000000
+  },
+  {
+    "name": "Guatemala",
+    "population": 18967978,
+    "region": "Latin America",
+    "gdp": 128886000000
+  },
+  {
+    "name": "Ecuador",
+    "population": 18444506,
+    "region": "Latin America",
+    "gdp": 138194000000
+  },
+  {
+    "name": "Bolivia",
+    "population": 12749291,
+    "region": "Latin America",
+    "gdp": 80743000000
+  },
+  {
+    "name": "Haiti",
+    "population": 12037506,
+    "region": "Latin America",
+    "gdp": 39180000000
+  },
+  {
+    "name": "Dominican Republic",
+    "population": 11609500,
+    "region": "Latin America",
+    "gdp": 136148000000
+  },
+  {
+    "name": "Honduras",
+    "population": 11184760,
+    "region": "Latin America",
+    "gdp": 41505000000
+  },
+  {
+    "name": "Cuba",
+    "population": 10892659,
+    "region": "Latin America",
+    "gdp": 201985998168
+  },
+  {
+    "name": "Nicaragua",
+    "population": 7097329,
+    "region": "Latin America",
+    "gdp": 24227000000
+  },
+  {
+    "name": "Paraguay",
+    "population": 7095279,
+    "region": "Latin America",
+    "gdp": 60542000000
+  },
+  {
+    "name": "El Salvador",
+    "population": 6391253,
+    "region": "Latin America",
+    "gdp": 39838000000
+  },
+  {
+    "name": "Costa Rica",
+    "population": 5174789,
+    "region": "Latin America",
+    "gdp": 109931000000
+  },
+  {
+    "name": "Panama",
+    "population": 4625718,
+    "region": "Latin America",
+    "gdp": 95024000000
+  },
+  {
+    "name": "Uruguay",
+    "population": 3382537,
+    "region": "Latin America",
+    "gdp": 96092000000
+  },
+  {
+    "name": "Puerto Rico",
+    "population": 3222688,
+    "region": "Latin America",
+    "gdp": 129012000000
+  },
+  {
+    "name": "Jamaica",
+    "population": 2833403,
+    "region": "Latin America",
+    "gdp": 23028000000
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "population": 1513268,
+    "region": "Latin America",
+    "gdp": 26836000000
+  },
+  {
+    "name": "Guyana",
+    "population": 840890,
+    "region": "Latin America",
+    "gdp": 33961000000
+  },
+  {
+    "name": "Suriname",
+    "population": 645256,
+    "region": "Latin America",
+    "gdp": 5908000000
+  },
+  {
+    "name": "Belize",
+    "population": 428644,
+    "region": "Latin America",
+    "gdp": 3450000000
+  },
+  {
+    "name": "Bahamas",
+    "population": 404628,
+    "region": "Latin America",
+    "gdp": 17042000000
+  },
+  {
+    "name": "Guadeloupe",
+    "population": 372453,
+    "region": "Latin America",
+    "gdp": 0
+  },
+  {
+    "name": "Martinique",
+    "population": 337711,
+    "region": "Latin America",
+    "gdp": 0
+  },
+  {
+    "name": "French Guiana",
+    "population": 318872,
+    "region": "Latin America",
+    "gdp": 0
+  },
+  {
+    "name": "Barbados",
+    "population": 282724,
+    "region": "Latin America",
+    "gdp": 8483000000
+  },
+  {
+    "name": "CuraÃ§ao",
+    "population": 185440,
+    "region": "Latin America",
+    "gdp": 3281419347
+  },
+  {
+    "name": "Saint Lucia",
+    "population": 180488,
+    "region": "Latin America",
+    "gdp": 2765000000
+  },
+  {
+    "name": "Grenada",
+    "population": 117362,
+    "region": "Latin America",
+    "gdp": 1483000000
+  },
+  {
+    "name": "Aruba",
+    "population": 108164,
+    "region": "Latin America",
+    "gdp": 4671000000
+  },
+  {
+    "name": "St. Vincent & Grenadines",
+    "population": 99245,
+    "region": "Latin America",
+    "gdp": 1236000000
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "population": 94626,
+    "region": "Latin America",
+    "gdp": 2385000000
+  },
+  {
+    "name": "U.S. Virgin Islands",
+    "population": 83400,
+    "region": "Latin America",
+    "gdp": 4672000000
+  },
+  {
+    "name": "Cayman Islands",
+    "population": 77196,
+    "region": "Latin America",
+    "gdp": 7139428558
+  },
+  {
+    "name": "Dominica",
+    "population": 65511,
+    "region": "Latin America",
+    "gdp": 791000000
+  },
+  {
+    "name": "Turks and Caicos",
+    "population": 47148,
+    "region": "Latin America",
+    "gdp": 1745378000
+  },
+  {
+    "name": "Saint Kitts & Nevis",
+    "population": 46992,
+    "region": "Latin America",
+    "gdp": 1143000000
+  },
+  {
+    "name": "Sint Maarten",
+    "population": 44447,
+    "region": "Latin America",
+    "gdp": 1735210228
+  },
+  {
+    "name": "British Virgin Islands",
+    "population": 39936,
+    "region": "Latin America",
+    "gdp": 1505856107
+  },
+  {
+    "name": "Caribbean Netherlands",
+    "population": 31913,
+    "region": "Latin America",
+    "gdp": 0
+  },
+  {
+    "name": "Saint Martin",
+    "population": 23898,
+    "region": "Latin America",
+    "gdp": 649206156
+  },
+  {
+    "name": "Anguilla",
+    "population": 14817,
+    "region": "Latin America",
+    "gdp": 415735284
+  },
+  {
+    "name": "Saint Barthelemy",
+    "population": 11550,
+    "region": "Latin America",
+    "gdp": 0
+  },
+  {
+    "name": "Montserrat",
+    "population": 4328,
+    "region": "Latin America",
+    "gdp": 80429630
+  },
+  {
+    "name": "Falkland Islands",
+    "population": 3465,
+    "region": "Latin America",
+    "gdp": 0
+  },
+  {
+    "name": "United States",
+    "population": 349035494,
+    "region": "Northern America",
+    "gdp": 32383920000000
+  },
+  {
+    "name": "Canada",
+    "population": 40467728,
+    "region": "Northern America",
+    "gdp": 2507340000000
+  },
+  {
+    "name": "Bermuda",
+    "population": 64459,
+    "region": "Northern America",
+    "gdp": 8980200000
+  },
+  {
+    "name": "Greenland",
+    "population": 55629,
+    "region": "Northern America",
+    "gdp": 3326544174
+  },
+  {
+    "name": "Saint Pierre & Miquelon",
+    "population": 5513,
+    "region": "Northern America",
+    "gdp": 0
+  },
+  {
+    "name": "Australia",
+    "population": 27227096,
+    "region": "Oceania",
+    "gdp": 2123963000000
+  },
+  {
+    "name": "Papua New Guinea",
+    "population": 10947848,
+    "region": "Oceania",
+    "gdp": 34403000000
+  },
+  {
+    "name": "New Zealand",
+    "population": 5287479,
+    "region": "Oceania",
+    "gdp": 278636000000
+  },
+  {
+    "name": "Fiji",
+    "population": 937282,
+    "region": "Oceania",
+    "gdp": 6352000000
+  },
+  {
+    "name": "Solomon Islands",
+    "population": 858288,
+    "region": "Oceania",
+    "gdp": 1836000000
+  },
+  {
+    "name": "Vanuatu",
+    "population": 342564,
+    "region": "Oceania",
+    "gdp": 1396000000
+  },
+  {
+    "name": "New Caledonia",
+    "population": 297892,
+    "region": "Oceania",
+    "gdp": 10139988153
+  },
+  {
+    "name": "French Polynesia",
+    "population": 283076,
+    "region": "Oceania",
+    "gdp": 6402221222
+  },
+  {
+    "name": "Samoa",
+    "population": 220528,
+    "region": "Oceania",
+    "gdp": 1376000000
+  },
+  {
+    "name": "Guam",
+    "population": 170185,
+    "region": "Oceania",
+    "gdp": 6910000000
+  },
+  {
+    "name": "Kiribati",
+    "population": 138445,
+    "region": "Oceania",
+    "gdp": 401000000
+  },
+  {
+    "name": "Micronesia",
+    "population": 114183,
+    "region": "Oceania",
+    "gdp": 521000000
+  },
+  {
+    "name": "Tonga",
+    "population": 103291,
+    "region": "Oceania",
+    "gdp": 716000000
+  },
+  {
+    "name": "American Samoa",
+    "population": 45319,
+    "region": "Oceania",
+    "gdp": 871000000
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "population": 42914,
+    "region": "Oceania",
+    "gdp": 1096000000
+  },
+  {
+    "name": "Marshall Islands",
+    "population": 35075,
+    "region": "Oceania",
+    "gdp": 342000000
+  },
+  {
+    "name": "Palau",
+    "population": 17614,
+    "region": "Oceania",
+    "gdp": 377000000
+  },
+  {
+    "name": "Cook Islands",
+    "population": 12826,
+    "region": "Oceania",
+    "gdp": 366211548
+  },
+  {
+    "name": "Nauru",
+    "population": 12101,
+    "region": "Oceania",
+    "gdp": 196000000
+  },
+  {
+    "name": "Wallis & Futuna",
+    "population": 11113,
+    "region": "Oceania",
+    "gdp": 0
+  },
+  {
+    "name": "Tuvalu",
+    "population": 9362,
+    "region": "Oceania",
+    "gdp": 65000000
+  },
+  {
+    "name": "Tokelau",
+    "population": 2691,
+    "region": "Oceania",
+    "gdp": 0
+  },
+  {
+    "name": "Niue",
+    "population": 1822,
+    "region": "Oceania",
+    "gdp": 0
   }
 ]
