@@ -104,14 +104,14 @@ def main():
 
             if filter_type == "1":
                 min_pop = int(input("Enter minimum population: ").strip())
-                result = result = filter_countries_by_population(loaded_countries, filter_type, min_pop=min_pop)
+                result = filter_countries_by_population(loaded_countries, filter_type, min_pop=min_pop)
                 print(f"\nCountries with population > {min_pop:,}:")
                 for country in result:
                     print(f"   • {country.name} - {country.population:,}")
 
             elif filter_type == "2":
                 max_pop = int(input("Enter maximum population: ").strip())
-                result = result = filter_countries_by_population(loaded_countries, filter_type, max_pop=max_pop)
+                result = filter_countries_by_population(loaded_countries, filter_type, max_pop=max_pop)
                 print(f"\nCountries with population < {max_pop:,}:")
                 for country in result:
                     print(f"   • {country.name} - {country.population:,}")
@@ -119,7 +119,7 @@ def main():
             elif filter_type == "3":
                 min_pop = int(input("Enter minimum population: ").strip())
                 max_pop = int(input("Enter maximum population: ").strip())
-                result = result = filter_countries_by_population(loaded_countries, filter_type, min_pop, max_pop)
+                result = filter_countries_by_population(loaded_countries, filter_type, min_pop, max_pop)
                 print(f"\nCountries with population between {min_pop:,} and {max_pop:,}:")
                 for country in result:
                     print(f"   • {country.name} - {country.population:,}")
